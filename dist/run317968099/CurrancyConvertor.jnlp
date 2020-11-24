@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CurrancyConvertor.jnlp">
+  <information>
+    <title>CurrancyConvertor</title>
+    <vendor>Rajkumar Sony</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CurrancyConvertor.jar" size="11652" download="eager" />
+    <jar href="lib\json-simple-1.1-bundle.jar" size="30913" download="eager" />
+    <jar href="lib\json-simple-1.1.1.jar" size="23737" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="source.Convertor"  name="CurrancyConvertor" />
+  <update check="always"/>
+</jnlp>
