@@ -24,6 +24,7 @@ Foreign exchange rates and currency conversion using
 JSON API from https://data.fixer.io
 
 ==========================================================>>
+
 GET https://data.fixer.io/api/latest
  
 {
@@ -62,10 +63,10 @@ Monitor			:	Any Colour Monitor
 
 # Snaps
 + Image - 1
-<img scr="https://github.com/RajkumarSony/Currancy-Convertor-Final-Project/blob/master/snaps/Screenshot%20(3).png">
+<img src="https://github.com/RajkumarSony/Currancy-Convertor-Final-Project/blob/master/snaps/Screenshot%20(3).png">
 
 + Image - 2
-<img scr="https://github.com/RajkumarSony/Currancy-Convertor-Final-Project/blob/master/snaps/Screenshot%20(3).png">
+<img src="https://github.com/RajkumarSony/Currancy-Convertor-Final-Project/blob/master/snaps/Screenshot%20(3).png">
 
 + Image - 3
-<img scr="https://github.com/RajkumarSony/Currancy-Convertor-Final-Project/blob/master/snaps/Screenshot%20(3).png">
+<img src="https://github.com/RajkumarSony/Currancy-Convertor-Final-Project/blob/master/snaps/Screenshot%20(3).png">
